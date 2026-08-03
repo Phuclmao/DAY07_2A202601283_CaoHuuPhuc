@@ -1,18 +1,29 @@
 ---
-doc_id: k3-library-services
-title: Dịch vụ thư viện
-audience: all               # student | faculty | staff | all
+doc_id: vinuni-library-access-services
+title: Library Access and Services Policy
+source_url: https://policy.vinuni.edu.vn/all-policies/library-policies-for-users/
+retrieved_at: 2026-08-03
+document_version: not-stated
+audience: student
 department: library
-language: vi
-source_url: https://example.edu/thu-vien/dich-vu
-retrieved_at: 2026-08-02
-document_version: "2026.1"
+category: library-services
+language: en
 ---
 
-> Khối metadata phía trên là **template mẫu** cho K3 — thay `source_url`/`retrieved_at`/`document_version` bằng nguồn công khai thật trước khi dùng làm benchmark.
+# Library access, borrowing, and electronic resources
 
-# Dịch vụ thư viện (dữ liệu khởi động)
+This cleaned extract summarizes the access and circulation rules relevant to VinUniversity students.
 
-Thư viện cung cấp mượn tài liệu và không gian học tập cho sinh viên, giảng viên và nhân viên. Người dùng cần mang thẻ định danh hợp lệ khi sử dụng dịch vụ mượn.
+## Access and opening hours
 
-Nhóm cần bổ sung quy định thời hạn mượn, gia hạn và xử lý quá hạn từ nguồn chính thức trước khi dùng làm benchmark.
+Only students, faculty, and staff with a valid VinUni ID may enter the library, borrow items, or use electronic resources. The ID must be presented when requested. The library’s main entrance operates Monday–Friday from 8:00 a.m. to 9:00 p.m. and Saturday–Sunday from 9:00 a.m. to 5:00 p.m. during the semester. The 24/7 learning space is open continuously. Hours can change during examination periods, holidays, and summer break.
+
+## Borrowing
+
+Undergraduate students may borrow three items for two weeks and renew once. General books and CDs/DVDs can be borrowed; reference materials and journals cannot. Course Reserve books may be borrowed for two hours, one item per user at a time.
+
+Items must be returned or renewed before the due time. Overdue items cannot be renewed. A renewal lasts half the original loan period and is allowed only when no other user has requested the item. If the due date is a holiday, it moves to the next open day. All loans must be returned and fines paid at least one month before leaving VinUni.
+
+## Electronic resources
+
+Electronic resources are limited to VinUni students, faculty, and staff unless a license says otherwise. Users log in with their VinUni ID and may use the materials only for personal, non-commercial purposes.

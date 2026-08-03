@@ -1,18 +1,31 @@
 ---
-doc_id: k3-course-registration
-title: Đăng ký học phần
-audience: student            # student | faculty | staff | all
-department: academic-affairs
-language: vi
-source_url: https://example.edu/hoc-vu/dang-ky-hoc-phan
-retrieved_at: 2026-08-02
-document_version: "2026.1"
+doc_id: vinuni-undergraduate-academic-regulations
+title: Academic Regulations for Full-Time Undergraduate Programs
+source_url: https://policy.vinuni.edu.vn/all-policies/academic-regulations-for-full-time-undergraduate-programs/
+retrieved_at: 2026-08-03
+document_version: not-stated
+audience: student
+department: registrar
+category: course-registration
+language: en
 ---
 
-> Khối metadata phía trên là **template mẫu** cho K3 (bắt buộc: `audience` + `source_url` + `retrieved_at` + `document_version`, cùng ít nhất một trường hữu ích khác như `department`). Thay bằng nguồn công khai thật của nhóm trước khi dùng làm benchmark.
+# Course registration and study load
 
-# Đăng ký học phần (dữ liệu khởi động)
+This cleaned extract covers course registration, study load, and course changes for VinUniversity full-time undergraduate students.
 
-Sinh viên đăng ký học phần trong cổng học vụ theo lịch của từng học kỳ. Một học phần có thể yêu cầu học phần tiên quyết; sinh viên cần kiểm tra điều kiện trước khi xác nhận đăng ký.
+## Registration requirements
 
-Khi gặp lỗi trùng lịch, sinh viên điều chỉnh lớp học phần trước thời hạn điều chỉnh được công bố. Mọi yêu cầu ngoại lệ phải được gửi qua kênh hỗ trợ học vụ chính thức.
+The Office of Registrar announces the tentative academic calendar, required and elective courses, course descriptions, prerequisites, examination periods, and assessment formats at the beginning of each academic year. Students register with the Office of Registrar. Registration must reflect their academic capability, course prerequisites, and program requirements. A registration is accepted only when it complies with University regulations; exceptions require Program Director approval.
+
+## Study load
+
+A normal full-time load is 30 credits over an academic year. Full-time status in a regular semester requires at least 80% of that load, equivalent to 12 credits. For students in good academic standing, the normal regular-semester load is at least 14 credits. Automatic overload is 18–22 credits and is reviewed by the Academic Advisor or Program Director. More than 22 credits requires approval from the College Dean or designee.
+
+Students must petition to overload when they are first-semester first-year students seeking more than 18 credits, were not in good standing in the previous semester and seek more than 18 credits, or seek more than 22 credits in a regular semester. Students must meet course prerequisites; exemptions require Program Director approval.
+
+## Add, drop, and withdrawal
+
+Students may add a course until the close of the 10th business day of a regular semester, or the 5th business day of a mini semester. The regular-semester drop deadline is no later than the close of the 15th business day; the Summer deadline is no later than the close of the 10th business day. Changes during the drop period are not recorded on the academic record.
+
+Dropping after the add/drop period is a withdrawal. Withdrawal is permitted before the student completes more than 30% of the course study time and results in a W grade on the transcript. The program-wide withdrawal limit is 18 credits.
